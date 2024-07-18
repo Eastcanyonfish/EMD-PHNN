@@ -28,6 +28,6 @@ The PHNN model offers a promising approach to enhancing return prediction in can
 
 #Citation
 
-Min Zhu, Yu Guo, Yuping Song, "A parallel hybrid neural networks model for forecasting returns with candlestick technical trading strategy," Expert Systems with Applications, Volume 255, Part A, 2024, 124486, ISSN 0957-4174, DOI Link
+Min Zhu, Yu Guo, Yuping Song, "A parallel hybrid neural networks model for forecasting returns with candlestick technical trading strategy," Expert Systems with Applications, Volume 255, Part A, 2024, 124486, ISSN 0957-4174, DOI Link is https://doi.org/10.1016/j.eswa.2024.124486
 
 Keywords: Parallel hybrid neural networks, Empirical mode decomposition, Candlestick trading technique, Returns prediction
