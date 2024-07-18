@@ -1,4 +1,4 @@
-##PHNN Model for Candlestick Technical Trading Strategy
+## PHNN Model for Candlestick Technical Trading Strategy
 
 #Background
 
